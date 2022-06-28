@@ -9,10 +9,10 @@ Scenarij ovog testa bio je provjeriti funkcionalnost web stranice. Korišten je 
 
 ## Testni slučajevi
 
-Area of functionality: Modul za prijavu korisnika, promjenu podataka i odjavu korisnika
-Objective: Provjera funkcionalnosti prijave korisnika, odjave korisnika i promjene podataka
-Test case results: 5 testnih točki: 5 Pass, 0 Fail
-Note: Korisnik je prethodno registriran
+1. Area of functionality: Modul za prijavu korisnika, promjenu podataka i odjavu korisnika
+2. Objective: Provjera funkcionalnosti prijave korisnika, odjave korisnika i promjene podataka
+3. Test case results: 5 testnih točki: 5 Pass, 0 Fail
+4. Note: Korisnik je prethodno registriran
 
 Test seq. ID Action taken Precondition Expected results Pass/Fail Note (in the case of "Fail")
 
